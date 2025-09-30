@@ -1,4 +1,4 @@
-# Hi Everyone! I'm [Sarah Rubio!](https://github.com/SarahRubio)
+# Hi Everyone, I'm [Sarah Rubio!](https://github.com/SarahRubio)
 <br><br>
 <a href="https://www.linkedin.com/in/sarah-rubio-ba765b1a8/">
   <img align="left" alt="sarah rubio's Linkedin" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
